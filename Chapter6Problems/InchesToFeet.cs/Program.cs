@@ -7,9 +7,9 @@ namespace InchesToFeet.cs
 {
     class Program
     {
-        public static void InchesToFeet(int inches, 
+        public static void InchesToFeet(int inches)
         {
-
+            Console.WriteLine(inches * 12);
         }
     }
 }
