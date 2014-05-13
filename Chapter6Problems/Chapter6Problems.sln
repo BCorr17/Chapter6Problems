@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToYards.cs", "InchesT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogram.cs", "Monogram.cs\Monogram.cs.csproj", "{9CEE092B-E537-4F37-926F-F0CCA2D29C9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exponent.cs", "Exponent.cs\Exponent.cs.csproj", "{03D75674-F5D4-4BA1-93D9-8930B3219C20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,6 +45,10 @@ Global
 		{9CEE092B-E537-4F37-926F-F0CCA2D29C9D}.Debug|x86.Build.0 = Debug|x86
 		{9CEE092B-E537-4F37-926F-F0CCA2D29C9D}.Release|x86.ActiveCfg = Release|x86
 		{9CEE092B-E537-4F37-926F-F0CCA2D29C9D}.Release|x86.Build.0 = Release|x86
+		{03D75674-F5D4-4BA1-93D9-8930B3219C20}.Debug|x86.ActiveCfg = Debug|x86
+		{03D75674-F5D4-4BA1-93D9-8930B3219C20}.Debug|x86.Build.0 = Debug|x86
+		{03D75674-F5D4-4BA1-93D9-8930B3219C20}.Release|x86.ActiveCfg = Release|x86
+		{03D75674-F5D4-4BA1-93D9-8930B3219C20}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
